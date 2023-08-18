@@ -35,4 +35,6 @@ Outputs
 [View a video explanation here](video link)
 
 ## Conclusion
-
+I belive that this project, when perfected, can help architecture students and people who have an interest in architecture learn and test themselves about some of the different styles of architecture. 
+While this project requires more training and is by no means perfect, if I had more time to work on this project, I would work on making this more user friendly and train the model more. 
+I hope you enjoyed my project!
