@@ -32,7 +32,7 @@ Outputs
 2. In order to get a visual representation of the data, in your home terminal, type: imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/image.jpg name.jpg
 3. You can also use the classification.py file to see the output in terminal. 
 
-[View a video explanation here](video link)
+(https://youtu.be/doEnUvaALZU)(video link)
 
 ## Conclusion
 I belive that this project, when perfected, can help architecture students and people who have an interest in architecture learn and test themselves about some of the different styles of architecture. 
