@@ -1,0 +1,12 @@
+American-craftsman-style
+Art-Nouveau-architecture
+Baroque-architecture
+Colonial-architecture
+Deconstructivism
+Georgian-architecture
+Gothic-architecture
+Greek Revival-architecture
+Palladian-architecture
+Postmodern-architecture
+Romanesque-architecture
+Russian-Revival-architecture
